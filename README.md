@@ -6,3 +6,7 @@ interaktive Karte zu Pulp and Paper:
 
 ## Link zu den interaktiven Maps
 <a href="[https://github.com/Follow-ETSAP/Maps/blob/main/paper_and_pulp/index.html](https://raw.githubusercontent.com/Follow-ETSAP/Maps/refs/heads/main/paper_and_pulp/index.html)">Interaktive Karten</a>
+
+## References
+
+References used to create the maps are to be found unter "Reference for maps" document.
