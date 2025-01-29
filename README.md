@@ -1,11 +1,10 @@
-## Vorschau
+## Content
 
-interaktive Karte zu Pulp and Paper:
+The elaborated global industrial site data is presented in interactive maps. The size of the location markers corresponds to the production intensity of the respective industrial site. 
 
-<iframe src="https://raw.githubusercontent.com/Follow-ETSAP/Maps/refs/heads/main/paper_and_pulp/index.html" width="100%" height="500"></iframe>
+## Preview
 
-## Link zu den interaktiven Maps
-<a href="[https://github.com/Follow-ETSAP/Maps/blob/main/paper_and_pulp/index.html](https://raw.githubusercontent.com/Follow-ETSAP/Maps/refs/heads/main/paper_and_pulp/index.html)">Interaktive Karten</a>
+To use the map interactively, please download the map, unzip it and then open the index.html file
 
 ## References
 
